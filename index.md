@@ -1,4 +1,4 @@
-**19.06.2020 - OpenHPI - Hausaufgabe des Git-Kurses **
+__19.06.2020 - OpenHPI - Hausaufgabe des Git-Kurses __
 
 
 # Tina Turner
