@@ -10,3 +10,5 @@ Tina Turner (born Anna Mae Bullock; November 26, 1939) is an American-born Swiss
  
 > mal sehen ob das ein Quote ist
 > bin mir nicht sicher 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tina_Turner_50th_Anniversary_Tour.jpg/500px-Tina_Turner_50th_Anniversary_Tour.jpg">
